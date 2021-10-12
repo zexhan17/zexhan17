@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeeshan
-- 🌱 I’m currently learning Web [MERN]
-- 👀 I’m interested in Web, Security, cloud computing, Blockchain
-- 💞️ I’m looking to collaborate on Security, Blockchain
+- 🌱 I’m currently learning Web Dev "MERN".
+- 👀 I’m interested in Web Dev, Security, cloud computing, Blockchain.
+- 💞️ I’m looking to collaborate on Security, cloud computing.
 - 📫 How to reach me <zdon017@gmail.com>
 
 <!---
